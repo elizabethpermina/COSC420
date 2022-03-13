@@ -1,0 +1,7 @@
+# how to check if tensorflow is installed
+python3
+import tensorflow as tf
+quit()
+pip install --upgrade pip
+pip list
+pip install --upgrade tensorflow
